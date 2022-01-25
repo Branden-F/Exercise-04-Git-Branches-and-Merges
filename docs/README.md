@@ -1,0 +1,1 @@
+I've learned how to initialize repositories, push and pull commits, create commits, sort out merge conflicts.
